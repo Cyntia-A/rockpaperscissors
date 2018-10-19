@@ -8,4 +8,13 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
+var userChoice = "";
+var input = "";
+var computerChoices = "rock" + "paper" + "scissors";
+var computerChoice = "";
+var winner = "";
 
+$("#shoot").click(function(){
+    input = $("#input").val();
+    $("#userChoice").text(input);
+});
