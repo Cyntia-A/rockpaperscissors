@@ -17,7 +17,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [ ] Add any more HTML elements you will need to the page
 
 ### JavaScript
-- [ ] Add a click handler that displays the value of the input within the div with the id `#userChoice`
+- [x] Add a click handler that displays the value of the input within the div with the id `#userChoice`
 
 #### Wrap
 - [ ] Push your changes!
@@ -27,8 +27,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 ### Javascript 
 
-- [ ] Outside of your click handler, declare 3 variables (userChoice, computerChoice and winner) and assign them values of empty strings
-- [ ] Outside of your click handler, declare a randomNumber variable and set it equal to 0
+- [x] Outside of your click handler, declare 3 variables (userChoice, computerChoice and winner) and assign them values of empty strings
+- [x] Outside of your click handler, declare a randomNumber variable and set it equal to 0
 - [ ] In your click handler, generate a random number and assign it to the randomNumber variable
 - [ ] In your click handler, store the input value in the userChoice variable	
 - [ ] In your click handler, display userChoice to the screen
